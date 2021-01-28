@@ -1,7 +1,7 @@
 {
     "pictures": [
         {
-            "img": "../img1.jpg",
+            "img": "../img4.jpg",
             "name": "Название картины 1",
             "work": "painting",
             "plot": "portrait",
@@ -10,7 +10,7 @@
             "year": "1900"
         },
         {
-            "img": "../img3.jpg",
+            "img": "../img5.jpg",
             "name": "Название картины 2",
             "work": "illustration",
             "plot": "genre stage",
@@ -19,7 +19,7 @@
             "year": "1920"
         },
         {
-            "img": "../img3.jpg",
+            "img": "../img6.jpg",
             "name": "Название картины 3",
             "work": "graphics",
             "plot": "landscape",
@@ -28,7 +28,7 @@
             "year": "1901"
         },
         {
-            "img": "../img4.jpg",
+            "img": "../img41.jpg",
             "name": "Название картины 4",
             "work": "sculpture",
             "plot": "literature stage",
@@ -37,7 +37,7 @@
             "year": "1903"
         },
         {
-            "img": "../img5.jpg",
+            "img": "../img51.jpg",
             "name": "Название картины 5",
             "work": "painting",
             "plot": "portrait",
@@ -46,7 +46,7 @@
             "year": "1904"
         },
         {
-            "img": "../img6.jpg",
+            "img": "../img61.jpg",
             "name": "Название картины 6",
             "work": "decoration",
             "plot": "architecture",
@@ -55,7 +55,7 @@
             "year": "1910"
         },
         {
-            "img": "../img7.jpg",
+            "img": "../img71.jpg",
             "name": "Название картины 7",
             "work": "sculpture",
             "plot": "religious stage",
@@ -64,7 +64,7 @@
             "year": "1913"
         },
         {
-            "img": "../img8.jpg",
+            "img": "../img81.jpg",
             "name": "Название картины 8",
             "work": "painting",
             "plot": "landscape",
@@ -73,7 +73,7 @@
             "year": "1916"
         },
         {
-            "img": "../img9.jpg",
+            "img": "../img91.jpg",
             "name": "Название картины 9",
             "work": "painting",
             "plot": "nude",
@@ -82,7 +82,7 @@
             "year": "1902"
         },
         {
-            "img": "../img10.jpg",
+            "img": "../img106.jpg",
             "name": "Название картины 10",
             "work": "theatre decorative",
             "plot": "still life",
