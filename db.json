@@ -152,33 +152,6 @@
             "style": "realism",
             "technics": "oil",
             "year": "1903"
-        },
-        {
-            "img": "../img18.jpg",
-            "name": "Название картины 18",
-            "work": "painting",
-            "plot": "nude",
-            "style": "realism",
-            "technics": "oil",
-            "year": "1926"
-        },
-        {
-            "img": "../img19.jpg",
-            "name": "Название картины 19",
-            "work": "poster",
-            "plot": "portrait",
-            "style": "realism",
-            "technics": "oil",
-            "year": "1927"
-        },
-        {
-            "img": "../img20.jpg",
-            "name": "Название картины 20",
-            "work": "painting",
-            "plot": "portrait",
-            "style": "realism",
-            "technics": "oil",
-            "year": "1921"
         }
     ]
 }
