@@ -1,7 +1,7 @@
 {
     "pictures": [
         {
-            "img": "../img4.jpg",
+            "img": "../img10.jpg",
             "name": "Название картины 1",
             "work": "painting",
             "plot": "portrait",
@@ -10,7 +10,7 @@
             "year": "1900"
         },
         {
-            "img": "../img5.jpg",
+            "img": "../img9.jpg",
             "name": "Название картины 2",
             "work": "illustration",
             "plot": "genre stage",
@@ -19,7 +19,7 @@
             "year": "1920"
         },
         {
-            "img": "../img6.jpg",
+            "img": "../img8.jpg",
             "name": "Название картины 3",
             "work": "graphics",
             "plot": "landscape",
@@ -28,7 +28,7 @@
             "year": "1901"
         },
         {
-            "img": "../img41.jpg",
+            "img": "../img7.jpg",
             "name": "Название картины 4",
             "work": "sculpture",
             "plot": "literature stage",
@@ -37,7 +37,7 @@
             "year": "1903"
         },
         {
-            "img": "../img51.jpg",
+            "img": "../img6.jpg",
             "name": "Название картины 5",
             "work": "painting",
             "plot": "portrait",
@@ -46,7 +46,7 @@
             "year": "1904"
         },
         {
-            "img": "../img61.jpg",
+            "img": "../img5.jpg",
             "name": "Название картины 6",
             "work": "decoration",
             "plot": "architecture",
@@ -55,7 +55,7 @@
             "year": "1910"
         },
         {
-            "img": "../img71.jpg",
+            "img": "../img4.jpg",
             "name": "Название картины 7",
             "work": "sculpture",
             "plot": "religious stage",
@@ -64,7 +64,7 @@
             "year": "1913"
         },
         {
-            "img": "../img81.jpg",
+            "img": "../img3.jpg",
             "name": "Название картины 8",
             "work": "painting",
             "plot": "landscape",
@@ -73,7 +73,7 @@
             "year": "1916"
         },
         {
-            "img": "../img91.jpg",
+            "img": "../img2.jpg",
             "name": "Название картины 9",
             "work": "painting",
             "plot": "nude",
@@ -82,7 +82,7 @@
             "year": "1902"
         },
         {
-            "img": "../img106.jpg",
+            "img": "../img1.jpg",
             "name": "Название картины 10",
             "work": "theatre decorative",
             "plot": "still life",
@@ -91,7 +91,7 @@
             "year": "1921"
         },
         {
-            "img": "../img11.jpg",
+            "img": "../img2.jpg",
             "name": "Название картины 11",
             "work": "illustration",
             "plot": "history stage",
@@ -100,7 +100,7 @@
             "year": "1924"
         },
         {
-            "img": "../img12.jpg",
+            "img": "../img3.jpg",
             "name": "Название картины 12",
             "work": "decoratively applied",
             "plot": "portrait",
@@ -109,7 +109,7 @@
             "year": "1921"
         },
         {
-            "img": "../img13.jpg",
+            "img": "../img4.jpg",
             "name": "Название картины 13",
             "work": "painting",
             "plot": "landscape",
@@ -118,7 +118,7 @@
             "year": "1909"
         },
         {
-            "img": "../img14.jpg",
+            "img": "../img5.jpg",
             "name": "Название картины 14",
             "work": "painting",
             "plot": "religious stage",
@@ -127,7 +127,7 @@
             "year": "1908"
         },
         {
-            "img": "../img15.jpg",
+            "img": "../img6.jpg",
             "name": "Название картины 15",
             "work": "poster",
             "plot": "portrait",
@@ -136,7 +136,7 @@
             "year": "1920"
         },
         {
-            "img": "../img16.jpg",
+            "img": "../img7.jpg",
             "name": "Название картины 16",
             "work": "painting",
             "plot": "architecture",
@@ -145,7 +145,7 @@
             "year": "1904"
         },
         {
-            "img": "../img17.jpg",
+            "img": "../img8.jpg",
             "name": "Название картины 17",
             "work": "decoratively applied",
             "plot": "portrait",
