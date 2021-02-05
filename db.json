@@ -13,7 +13,7 @@
             "img": "../img9.jpg",
             "name": "Название картины 2",
             "work": "illustration",
-            "plot": "genre stage",
+            "plot": "genre scene",
             "style": "realism",
             "technique": "oil",
             "year": "1920"
@@ -58,7 +58,7 @@
             "img": "../img4.jpg",
             "name": "Название картины 7",
             "work": "sculpture",
-            "plot": "religious stage",
+            "plot": "religious scene",
             "style": "socialist realism",
             "technique": "oil",
             "year": "1913"
@@ -94,7 +94,7 @@
             "img": "../img2.jpg",
             "name": "Название картины 11",
             "work": "illustration",
-            "plot": "history stage",
+            "plot": "history scene",
             "style": "realism",
             "technique": "oil",
             "year": "1924"
@@ -121,7 +121,7 @@
             "img": "../img5.jpg",
             "name": "Название картины 14",
             "work": "painting",
-            "plot": "religious stage",
+            "plot": "religious scene",
             "style": "realism",
             "technique": "gouache",
             "year": "1908"
