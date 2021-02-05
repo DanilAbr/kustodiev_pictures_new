@@ -6,7 +6,7 @@
             "work": "painting",
             "plot": "portrait",
             "style": "realism",
-            "technics": "oil",
+            "technique": "oil",
             "year": "1900"
         },
         {
@@ -15,7 +15,7 @@
             "work": "illustration",
             "plot": "genre stage",
             "style": "realism",
-            "technics": "oil",
+            "technique": "oil",
             "year": "1920"
         },
         {
@@ -24,7 +24,7 @@
             "work": "graphics",
             "plot": "landscape",
             "style": "modern",
-            "technics": "oil",
+            "technique": "oil",
             "year": "1901"
         },
         {
@@ -33,7 +33,7 @@
             "work": "sculpture",
             "plot": "literature scene",
             "style": "realism",
-            "technics": "oil",
+            "technique": "oil",
             "year": "1903"
         },
         {
@@ -42,7 +42,7 @@
             "work": "painting",
             "plot": "portrait",
             "style": "surrealism",
-            "technics": "oil",
+            "technique": "oil",
             "year": "1904"
         },
         {
@@ -51,7 +51,7 @@
             "work": "decoration",
             "plot": "architecture",
             "style": "realism",
-            "technics": "oil",
+            "technique": "oil",
             "year": "1910"
         },
         {
@@ -60,7 +60,7 @@
             "work": "sculpture",
             "plot": "religious stage",
             "style": "socialist realism",
-            "technics": "oil",
+            "technique": "oil",
             "year": "1913"
         },
         {
@@ -69,7 +69,7 @@
             "work": "painting",
             "plot": "landscape",
             "style": "realism",
-            "technics": "oil",
+            "technique": "graphite pencil",
             "year": "1916"
         },
         {
@@ -78,8 +78,8 @@
             "work": "painting",
             "plot": "nude",
             "style": "realism",
-            "technics": "oil",
-            "year": "1902"
+            "technique": "oil",
+            "year": "1888"
         },
         {
             "img": "../img1.jpg",
@@ -87,7 +87,7 @@
             "work": "theatre decorative",
             "plot": "still life",
             "style": "realism",
-            "technics": "oil",
+            "technique": "oil",
             "year": "1921"
         },
         {
@@ -96,7 +96,7 @@
             "work": "illustration",
             "plot": "history stage",
             "style": "realism",
-            "technics": "oil",
+            "technique": "oil",
             "year": "1924"
         },
         {
@@ -105,7 +105,7 @@
             "work": "decoratively applied",
             "plot": "portrait",
             "style": "realism",
-            "technics": "oil",
+            "technique": "oil",
             "year": "1921"
         },
         {
@@ -114,7 +114,7 @@
             "work": "painting",
             "plot": "landscape",
             "style": "primitivism",
-            "technics": "oil",
+            "technique": "water colour",
             "year": "1909"
         },
         {
@@ -123,7 +123,7 @@
             "work": "painting",
             "plot": "religious stage",
             "style": "realism",
-            "technics": "oil",
+            "technique": "gouache",
             "year": "1908"
         },
         {
@@ -132,7 +132,7 @@
             "work": "poster",
             "plot": "portrait",
             "style": "realism",
-            "technics": "oil",
+            "technique": "oil",
             "year": "1920"
         },
         {
@@ -141,7 +141,7 @@
             "work": "painting",
             "plot": "architecture",
             "style": "realism",
-            "technics": "oil",
+            "technique": "gouache",
             "year": "1904"
         },
         {
@@ -150,7 +150,7 @@
             "work": "decoratively applied",
             "plot": "portrait",
             "style": "realism",
-            "technics": "oil",
+            "technique": "pastel",
             "year": "1903"
         }
     ]
